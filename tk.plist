@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 					<key>bundle-identifier</key>
-					<string>com.King-tk.app</string>
+					<string>Kin.tk.com</string>
 					<key>bundle-version</key>
 					<string>2.0</string>
 				<key>kind</key>
-				<string>TK</string>
+				<string>software</string>
 				<key>subtitle</key>
-				<string>jiejing</string>
+				<string>Kingtool</string>
 				<key>title</key>
 				<string>TK</string>
 			</dict>
