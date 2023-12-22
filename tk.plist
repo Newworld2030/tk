@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Newworld2030/tk/raw/main/tk.ipa</string>
+					<string>https://fastly.jsdelivr.net/gh/Newworld2030/tk@main/tk.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/Newworld2030/tk/raw/main/tk.png</string>
+					<string>https://fastly.jsdelivr.net/gh/Newworld2030/tk@main/tk.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
